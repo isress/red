@@ -1,1 +1,1 @@
-console.log("the world is RED, love")
+console.log("the world is RED")
